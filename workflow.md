@@ -8,5 +8,5 @@
 
 3. Neues Repository bei Github erstellen und Link bei GitGui einfügen 
 
-![Screenshot von Github](Ss2.jpg)
+![Screenshot von Github](Ss2.JPG)
 
